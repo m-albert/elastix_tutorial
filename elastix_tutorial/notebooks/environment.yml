@@ -1,0 +1,13 @@
+name: elastix_tutorial
+
+dependencies:
+- matplotlib
+- numpy
+- scikit-image
+- jupyter
+- pip
+- napari
+- pyqt=5
+- pip:
+  - itk-elastix
+  - jupyter_compare_view

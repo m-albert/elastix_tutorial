@@ -1,1 +1,3 @@
-# elastix_tutorial/_build/*
+elastix_tutorial/_build
+elastix_tutorial/templates
+.DS_Store

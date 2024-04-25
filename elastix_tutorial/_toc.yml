@@ -4,6 +4,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: download_repo
+- file: setup_environment
+- file: notebooks/01_first_registration
+- file: notebooks/02_exploration
+- file: notebooks/03_nonlinear_registration
+- file: notebooks/04_fib_sem_reconstruction
+- file: links

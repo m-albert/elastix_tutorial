@@ -1,11 +1,11 @@
-# Welcome to your Jupyter Book
+# Elastix tutorial: Intro
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+In this tutorial, we'll cover the basics of using elastix for image registration in the context of microscopy images.
 
-Check out the content pages bundled with this sample book to see more.
+Link to [introductory slides](https://docs.google.com/presentation/d/1tb5mCXlhlvvZFZ_jK-kUpHxDpjfWS1-vH7b539bV8Is/edit?usp=sharing).
+
+For the practical, we'll be using elastix within jupyter notebooks. 
+
 
 ```{tableofcontents}
 ```
