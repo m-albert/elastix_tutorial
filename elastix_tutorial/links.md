@@ -6,4 +6,4 @@ Elastix can also be used
 - within *Fiji* using [ElastixWrapper](https://github.com/embl-cba/elastixWrapper) by Christian Tischer
 - in *napari* using [elastix-napari](https://github.com/SuperElastix/elastix-napari) by SuperElastix
 
-Check out a large collection of [itk-elastix notebooks](https://github.com/InsightSoftwareConsortium/ITKElastix).
+Check out the large collection of [itk-elastix notebooks](https://github.com/InsightSoftwareConsortium/ITKElastix).
