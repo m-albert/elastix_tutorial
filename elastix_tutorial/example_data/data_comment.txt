@@ -1,1 +1,3 @@
-The example data is adapted and borrowed from the ElastixWrapper repository by Christian Tischer.
+The example data is adapted and borrowed from
+- the ElastixWrapper repository by Christian Tischer
+- https://www.ebi.ac.uk/bioimage-archive/galleries/EMPIAR-10479/IM1.html
